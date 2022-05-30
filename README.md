@@ -1,5 +1,3 @@
-# Webpack5
+# Привет от учащихся в Нетологии!
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
-
-[Migration Guide](https://webpack.js.org/migrate/5/)
+[![Build status](https://ci.appveyor.com/api/projects/status/8wo2k05sgseqaqr2?svg=true)](https://ci.appveyor.com/project/AlexanderSamisko/ahj-env)
